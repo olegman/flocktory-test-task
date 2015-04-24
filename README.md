@@ -19,3 +19,5 @@ npm start
 ```
 
 You are done, open index.html in browser.
+
+Also you can see working [Demo](http://olegman.github.io/flocktory-test-task/).
